@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreKampi", "CoreKampi\CoreKampi.csproj", "{59A9F7DC-1F3C-41B3-9492-B4903B63290C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59A9F7DC-1F3C-41B3-9492-B4903B63290C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A9F7DC-1F3C-41B3-9492-B4903B63290C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A9F7DC-1F3C-41B3-9492-B4903B63290C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A9F7DC-1F3C-41B3-9492-B4903B63290C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {938E074F-B76E-48C5-A2F8-078423F618C1}
+	EndGlobalSection
+EndGlobal
