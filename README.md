@@ -1,1 +1,1 @@
-# CoreKampi
+# akkayasoft Core Proje
